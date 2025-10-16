@@ -1,3 +1,2 @@
 # testrepo
-test
-It's a markdown file.
+It's a new markdown file.
